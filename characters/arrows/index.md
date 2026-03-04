@@ -5,6 +5,7 @@ existing arrow characters that distort the characters' normal semantics.
 Generally, characters should not be distorted in such a manner.
 
 | Arrow                                                             |
+|-------------------------------------------------------------------|
 | ![Arrow](downward-arrow-curving-left.svg)                         |
 | ![Arrow](downward-rightward-downward.svg)                         |
 | ![Arrow](downward-rightward-with-some-curvature.svg)              |
