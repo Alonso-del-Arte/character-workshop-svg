@@ -24,10 +24,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="51.197368"
-     inkscape:cy="71.627101"
+     inkscape:cx="65.64364"
+     inkscape:cy="71.125012"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
      showgrid="false"
      units="px"
@@ -49,23 +49,30 @@
     </rdf:RDF>
   </metadata>
   <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <path
+       style="fill:#f57900;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 17.4625,33.998958 20.713133,27.065392 19.860349,18.559617 17.840085,12.14224 12.369271,6.2838541 c -1.5875,-2.5796874 -1.5875,-2.5796874 -1.5875,-2.5796874 L 9.8557292,6.2838542 8.0036458,6.746875 6.2177083,4.5640625 5.4901042,7.2098958 5.3578125,7.4744792 4.365625,9.6572917 l 1.3890625,2.4473963 2.5796875,1.25677 -0.1984375,2.778125 -4.7625,-1.5875 -1.2567708,0.06615 -0.7276042,0.926042 -0.066146,0.661458 0.6614583,-0.330729 0.2645833,0.727604 0.7276042,-0.463021 0.1322917,0.661459 0.5953125,-0.396875 0.1984375,0.727604 0.3307291,-0.859896 3.2411459,1.256771 -0.6614584,7.739062 0.8598959,4.233334 0.79375,0.992187 v 0 l 1.7197915,2.116667 3.704167,1.058333 3.505729,0.595313 z"
+       id="path837"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#f57900;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.875,28.641145 13.427604,27.582812 7.6729163,29.501047 6.8791666,32.808333 8.0697916,33.80052 3.5057291,32.808333 2.38125,33.535937 3.3734375,33.80052 3.4395833,34.461979 4.1671874,34.13125 4.4979166,34.925 5.1593749,34.461979 5.4239583,35.123437 5.8869791,34.395833 m 0,0 c 5.2916669,1.190625 8.6651039,-1.984375 8.6651039,-1.984375"
+       id="path839" />
+    <path
+       style="fill:#f57900;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 20.769791,29.897916 5.953125,1.719792 4.7625,-2.711979 -1.5875,-4.630208 3.505729,5.093229 -6.746875,4.365625 -7.143749,-1.852084 z"
+       id="path841" />
+  </g>
+  <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
     <text
        xml:space="preserve"
        style="font-size:10.5833px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;display:inline;stroke-width:0.264583"
-       x="17.859375"
-       y="16.404167"
-       id="text12"><tspan
-         sodipodi:role="line"
-         id="tspan10"
-         x="17.859375"
-         y="16.404167"
-         style="stroke-width:0.264583" /></text>
-    <text
-       xml:space="preserve"
-       style="font-size:10.5833px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;stroke-width:0.264583"
        x="19.579166"
        y="17.727083"
        id="text33"><tspan
@@ -76,7 +83,7 @@
          style="stroke-width:0.264583">👁️</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:10.5833px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;stroke-width:0.264583"
+       style="font-size:10.5833px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;display:inline;stroke-width:0.264583"
        x="0.59531283"
        y="32.411457"
        id="text43"><tspan
