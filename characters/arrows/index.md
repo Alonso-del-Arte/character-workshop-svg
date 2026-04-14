@@ -12,5 +12,6 @@ Generally, characters should not be distorted in such a manner.
 | ![Arrow](rightward-downward-rightward-downwarda-and-leftward.svg) |
 | ![Arrow](rightward-then-downward-then-rightward.svg)              |
 | ![Arrow](rightward-downward-slightly-leftward.svg)                |
+| ![Arrow](rightward-then-southeast.svg)                            |
 | ![Arrow](southwest-then-rightward.svg)                            |
 | ![Arrow](southwest-then-southeast.svg)                            |
