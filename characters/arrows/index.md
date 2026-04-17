@@ -9,6 +9,7 @@ Generally, characters should not be distorted in such a manner.
 | ![Arrow](downward-arrow-curving-left.svg)                          |
 | ![Arrow](downward-rightward-downward.svg)                          |
 | ![Arrow](downward-rightward-with-some-curvature.svg)               |
+| ![Arrow](downward-then-curving-slightly-left.svg)                  |
 | ![Arrow](rightward-downward-rightward-downward-and-leftward.svg)   |
 | ![Arrow](rightward-then-downward-then-rightward-then-downward.svg) |              |
 | ![Arrow](rightward-then-downward-then-rightward.svg)               |
