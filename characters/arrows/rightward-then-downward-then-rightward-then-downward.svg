@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="144"
+   height="144"
+   viewBox="0 0 38.099999 38.100001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="Rightward then Downward then Rightward then Downward.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4"
+     inkscape:cx="105.51515"
+     inkscape:cy="71.627101"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;display:inline;stroke-width:0.264583"
+       x="17.859375"
+       y="16.404167"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         x="17.859375"
+         y="16.404167"
+         style="stroke-width:0.264583" /></text>
+    <g
+       aria-label="↓"
+       id="text56"
+       style="font-size:10.5833px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;stroke-width:0.264583">
+      <path
+         d="m 19.870539,25.420085 2.185933,-2.304709 c 1.548367,1.041978 -0.611539,-5.102129 0,0 0.116503,0.97195 1.892182,1.769581 3.141285,3.111789 L 25.159712,18.214558 14.464274,18.320529 14.620411,8.8897639 4.819499,8.9032526 5.0179365,6.0287461 7.3795227,6.161165 v 0 l 9.2901983,0.079506 v 9.536728 h 7.728822 l 3.669238,-0.10597 -0.161531,2.649092 -0.0031,8.31831 c 1.405242,-1.819045 1.628443,-3.426324 4.243753,-5.086422 v 2.039801 c -1.873655,2.278221 -1.781314,4.013136 -2.757177,5.655574 -0.96285,1.642437 -1.466861,2.556294 -2.078401,4.304695 l -1.634054,-0.01382 C 25.195829,32.01985 24.59495,31.040661 23.606076,29.32758 21.588909,25.090916 19.870539,25.420084 19.870539,25.420084 Z"
+         style="font-size:33.8667px;stroke-width:0.363812"
+         id="path58"
+         sodipodi:nodetypes="ccscccccccccccccccccccccc" />
+    </g>
+  </g>
+</svg>
