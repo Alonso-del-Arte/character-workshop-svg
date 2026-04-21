@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="144"
+   height="144"
+   viewBox="0 0 38.099999 38.100001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="Southwest with curvature.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="41.578852"
+     inkscape:cy="90.473401"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;display:inline;stroke-width:0.264583"
+       x="17.859375"
+       y="16.404167"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         x="17.859375"
+         y="16.404167"
+         style="stroke-width:0.264583" /></text>
+    <g
+       aria-label="↙"
+       id="text879"
+       style="font-size:47.625px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;stroke-width:0.264583">
+      <path
+         d="m 8.9798698,32.950832 1.4758792,-13.349056 1.174088,0.03307 -0.417545,8.8543 c 1.79966,-0.627599 3.546674,-1.921757 4.976729,-3.288569 1.662863,-1.010044 2.998123,-2.337342 4.101981,-4.030616 1.0674,-1.018611 1.822035,-2.49323 2.272452,-4.005427 l 1.690509,-5.140554 2.399247,-7.7225647 1.302246,1.1162109 -2.15449,6.8721638 -1.870956,5.146735 c -0.492467,1.443114 -1.262702,2.701048 -2.127192,3.896147 -1.006578,1.737964 -2.592155,3.395513 -4.284459,4.572429 -1.716744,1.816696 -2.914931,2.552586 -4.536099,3.700256 l 8.834036,-1.491442 v 0.744141 z"
+         style="font-size:47.625px;stroke-width:0.264583"
+         id="path881"
+         sodipodi:nodetypes="cccccccccccccccccc" />
+    </g>
+  </g>
+</svg>
