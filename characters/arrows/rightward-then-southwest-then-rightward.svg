@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="144"
+   height="144"
+   viewBox="0 0 38.099999 38.100001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="Rightward then Southwest then Rightward.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="71.720907"
+     inkscape:cy="59.947801"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;display:inline;stroke-width:0.264583"
+       x="17.859375"
+       y="16.404167"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         x="17.859375"
+         y="16.404167"
+         style="stroke-width:0.264583" /></text>
+    <g
+       aria-label="↳"
+       id="text18"
+       style="font-size:33.8667px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;display:inline;stroke-width:0.264583">
+      <path
+         d="m 20.902091,30.691662 -0.529167,-0.529167 3.042711,-3.968754 H 6.5205695 C 13.706801,17.194371 21.676751,12.207563 22.445629,10.616429 22.905245,9.6652895 6.280081,10.936197 6.5641164,10.361199 L 7.243474,8.9802563 24.357668,9.1877362 24.719774,10.531311 9.9094874,24.67571 l 13.5061476,0.327405 -3.042711,-3.968754 0.529167,-0.529167 7.540632,5.027088 v 0.132292 z"
+         style="font-size:33.8667px;stroke-width:0.264583"
+         id="path24"
+         sodipodi:nodetypes="ccccsccccccccccc" />
+    </g>
+  </g>
+</svg>
