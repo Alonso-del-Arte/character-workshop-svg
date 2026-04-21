@@ -19,3 +19,4 @@ Generally, characters should not be distorted in such a manner.
 | ![Arrow](rightward-then-southwest-then-rightward-then-downward.svg) |
 | ![Arrow](southwest-then-rightward.svg)                             |
 | ![Arrow](southwest-then-southeast.svg)                             |
+| ![Arrow](southwest-with-curvature.svg)                             |
